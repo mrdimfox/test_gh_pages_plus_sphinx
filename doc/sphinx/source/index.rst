@@ -9,7 +9,7 @@ Main docs page
    self
    other_page
 
-This is test of Sphinx + ThD docs. And... it works! Ha!
+This is test of Sphinx + RtD docs. And... it works! Ha!
 
 See menu on left.
 

@@ -58,7 +58,7 @@ html_static_path = ['_static']
 # -- Extensions configuration ------------------------------------------------
 
 # Relative path to js-files for jsdoc util
-js_source_path = '../js'
+js_source_path = '../../js'
 
 # -- Document configuration --------------------------------------------------
 

@@ -17,12 +17,12 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Test project'
+project = 'Test GH + RtD project'
 copyright = '2019, Lisin D.A.'
 author = 'Lisin D.A.'
 
 # The full version, including alpha/beta/rc tags
-release = '0.0.1'
+release = '1.0.0'
 
 
 # -- General configuration ---------------------------------------------------
@@ -43,6 +43,7 @@ templates_path = ['_templates']
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = []
 
+# Custom domain of Github Pages
 html_baseurl = 'dlisin.tk'
 
 

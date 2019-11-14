@@ -1,20 +1,19 @@
-.. Test project documentation master file, created by
-   sphinx-quickstart on Thu Nov 14 21:23:42 2019.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to Test project's documentation!
-========================================
+Main docs page
+==============
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   :numbered:
 
+   self
+   other_page
 
+This is test of Sphinx + ThD docs. And... it works! Ha!
 
-Indices and tables
-==================
+See menu on left.
+
+Indices
+=======
 
 * :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

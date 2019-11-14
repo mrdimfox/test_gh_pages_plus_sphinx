@@ -9,7 +9,7 @@ SOURCEDIR     = source
 BUILDDIR      = build
 
 ifeq ($(OS),Windows_NT)
-    CP_BUILD = powershell cp build/html/* ../../docs
+    CP_BUILD = powershell cp build/html/* ../../docs -Recurse
 else
 	CP_BUILD = cp -a build/html/. ../../docs
 endif
